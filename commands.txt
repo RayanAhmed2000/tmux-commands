@@ -1,0 +1,24 @@
+tmux list-sessions
+tmux attach -t [session number]
+
+
+Finger Gymnastics - 
+
+This is called prefix key it is pressed always before giving any command to tmux
+Ctrl + B 
+  
+Come out of tmux 
+then Press D
+
+Split terminal vertically
+ctrl + 5 i.e. percent symbol
+
+Split termina;l horizontally
+Ctrl + " i.e Double quotes
+
+Naviagtion can br done by using arrow keys
+
+
+
+
+
