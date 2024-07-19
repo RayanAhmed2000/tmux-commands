@@ -11,10 +11,10 @@ Come out of tmux
 then Press D
 
 Split terminal vertically
-ctrl + 5 i.e. percent symbol
+Shift + 5 i.e. percent symbol
 
 Split termina;l horizontally
-Ctrl + " i.e Double quotes
+Shift + " i.e Double quotes
 
 Naviagtion can br done by using arrow keys
 
