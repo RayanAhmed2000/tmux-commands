@@ -1,5 +1,8 @@
 tmux list-sessions
 tmux attach -t [session number]
+tmux kill-session -t my-session
+
+
 
 
 Finger Gymnastics - 
@@ -17,6 +20,7 @@ Split termina;l horizontally
 Shift + " i.e Double quotes
 
 Naviagtion can br done by using arrow keys
+
 
 
 
