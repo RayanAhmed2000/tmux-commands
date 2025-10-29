@@ -1,8 +1,13 @@
 tmux list-sessions
-tmux attach -t [session number]
+tmux attach -t [session number/name]
 tmux kill-session -t my-session
 
+example - 
 
+tmux new -s mongo
+Ctrl + b then press d
+tmux ls 
+tmux attach -t mongo
 
 
 Finger Gymnastics - 
@@ -20,6 +25,23 @@ Split termina;l horizontally
 Shift + " i.e Double quotes
 
 Naviagtion can br done by using arrow keys
+
+
+
+
+
+Run same command on all terminals
+
+tmux attach -t mongo
+ctrl + B 
+then press :
+now type 
+set -w synchronize-panes on
+
+
+
+
+
 
 
 
